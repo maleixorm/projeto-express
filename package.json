@@ -1,0 +1,25 @@
+{
+  "name": "projeto-express",
+  "version": "1.0.0",
+  "description": "Projeto do NodeJS com Express e Nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maleixorm/projeto-express.git"
+  },
+  "author": "Marcos Aleixo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maleixorm/projeto-express/issues"
+  },
+  "homepage": "https://github.com/maleixorm/projeto-express#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
